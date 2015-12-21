@@ -1,0 +1,26 @@
+{
+    "name": "abbylynn/translatable",
+    "description": "Translation File Manager For Laravel 5",
+    "keywords": [
+        "laravel",
+        "translation",
+        "translatable",
+        "manager",
+        "translation manager",
+        "translate",
+        "abby",
+        "abbylynn"
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abby Janke",
+            "email": "me@abbyjanke.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
